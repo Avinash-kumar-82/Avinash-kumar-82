@@ -47,8 +47,8 @@
         alt="avinash-kumar-1932" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-1932&show_icons=true&locale=en"
-        alt="avinash-kumar-1932" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-82&show_icons=true&locale=en"
+        alt="avinash-kumar-82" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kumar-1932&"
-        alt="avinash-kumar-1932" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-kumar-82&"
+        alt="avinash-kumar-82" /></p>
