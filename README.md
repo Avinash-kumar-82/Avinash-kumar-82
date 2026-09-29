@@ -1,87 +1,98 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Avinash%20Kumar&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20AI%20Engineering&descSize=18&descAlignY=62" alt="Avinash Kumar banner" width="100%" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+LLMs;From+notebook+to+production;Full-stack+skills+to+ship+AI+products" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1e1b4b&height=230&section=header&text=Avinash%20Kumar&fontSize=56&fontColor=e2e8f0&fontAlignY=42&desc=AI%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI%20Engineering&descSize=17&descColor=94a3b8&descAlignY=64" alt="Avinash Kumar" width="100%" />
 
-  <br/><br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Building+intelligent+systems;From+research+notebook+to+production+API;LLMs+%C2%B7+Deep+Learning+%C2%B7+MLOps" alt="Typing" /></a>
 
-  <a href="https://linkedin.com/in/avinash-kumar-2779282bb"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/avinashkum42221"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <img src="https://komarev.com/ghpvc/?username=avinash-kumar-82&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
+<br/>
 
----
-
-## 🧠 About Me
-
-```python
-class Avinash:
-    role = "AI / ML Engineer"
-    focus = ["Machine Learning", "Deep Learning", "LLM Apps", "MLOps"]
-    full_stack = ["React", "Node.js", "Express", "MongoDB"]
-    learning = ["Rust", "RAG systems", "Model deployment"]
-
-    def mission(self):
-        return "Turn models into products people actually use."
-```
-
-## ⚡ What I Do
-
-| | |
-| :-- | :-- |
-| 🤖 **Machine Learning** | Training, evaluating and tuning models on real datasets |
-| 🧬 **Deep Learning** | Neural networks with PyTorch and TensorFlow |
-| 💬 **LLM Engineering** | Prompting, RAG pipelines, agents and API integrations |
-| 🚀 **AI Engineering** | Serving models via APIs, containers and web apps |
-| 🌐 **Full Stack** | React frontends and Node/Express backends around AI features |
-
-## 🛠️ Tech Stack
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,opencv&perline=8" alt="AI ML stack" />
-
-**Engineering & Deployment**
-
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux,aws,postman&perline=7" alt="Engineering stack" />
-
-**Full Stack**
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,react,mongodb,tailwind,rust&perline=7" alt="Full stack" />
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-82&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kumar-82&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=avinash-kumar-82&theme=midnight-purple&hide_border=true" alt="GitHub streak" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-kumar-2779282bb)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/avinashkum42221)
+[![Profile Views](https://komarev.com/ghpvc/?username=avinash-kumar-82&style=flat-square&color=4f46e5&label=Profile+Views)](https://github.com/avinash-kumar-82)
 
 </div>
 
-## 🚀 Featured Projects
+<br/>
+
+## `01` About
+
+I'm an AI/ML engineer who cares about the full path from idea to deployed model: data, training, evaluation, serving, and the interface people use. My full-stack background lets me ship the product around the model, not just the model.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**Focus areas**
+- Machine learning and deep learning
+- LLM applications and RAG pipelines
+- Model serving and MLOps
+- Full-stack AI products
+
+</td>
+    <td width="50%" valign="top">
+
+**Currently**
+- 🔭 Building an end-to-end ML project
+- 🌱 Learning vector databases and LLM evaluation
+- 🦀 Exploring Rust
+- 🤝 Open to internships and collaboration
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## `02` Tech Stack
+
+<table>
+  <tr>
+    <td width="160"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,jupyter,opencv&theme=dark" alt="AI ML" /></td>
+  </tr>
+  <tr>
+    <td><b>Serving & Ops</b></td>
+    <td><img src="https://skillicons.dev/icons?i=fastapi,docker,linux,aws,git,github&theme=dark" alt="Ops" /></td>
+  </tr>
+  <tr>
+    <td><b>Full Stack</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,rust&theme=dark" alt="Full stack" /></td>
+  </tr>
+</table>
+
+<br/>
+
+## `03` Featured Projects
 
 <!-- Replace with your own repos -->
 <div align="center">
 
-<a href="https://github.com/avinash-kumar-82/YOUR-ML-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-kumar-82&repo=YOUR-ML-PROJECT&theme=midnight-purple&hide_border=true" alt="ML project" /></a>
-<a href="https://github.com/avinash-kumar-82/YOUR-LLM-PROJECT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-kumar-82&repo=YOUR-LLM-PROJECT&theme=midnight-purple&hide_border=true" alt="LLM project" /></a>
+<a href="https://github.com/avinash-kumar-82/YOUR-ML-PROJECT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-kumar-82&repo=YOUR-ML-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="ML project" /></a>
+<a href="https://github.com/avinash-kumar-82/YOUR-LLM-PROJECT"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=avinash-kumar-82&repo=YOUR-LLM-PROJECT&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="LLM project" /></a>
 
 </div>
 
-## 🎯 Currently
+<br/>
 
-- 🔭 Building an end-to-end ML project, from data to deployed API
-- 🌱 Learning RAG, vector databases and LLM evaluation
-- 🤝 Open to AI/ML internships, collaborations and open source
-
-## 📫 Let's Connect
-
-Reach me on [LinkedIn](https://linkedin.com/in/avinash-kumar-2779282bb) or [Twitter](https://twitter.com/avinashkum42221).
+## `04` GitHub Activity
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" alt="footer" width="100%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avinash-kumar-82&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-kumar-82&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Languages" />
+
+<img src="https://streak-stats.demolab.com?user=avinash-kumar-82&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avinash-kumar-82&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="Activity graph" width="100%" />
+
+</div>
+
+<br/>
+
+## `05` Contact
+
+Open to AI/ML roles, internships and interesting collaborations. The best way to reach me is [LinkedIn](https://linkedin.com/in/avinash-kumar-2779282bb) or [Twitter](https://twitter.com/avinashkum42221).
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:0d1117&height=90&section=footer" alt="" width="100%" />
 </div>
